@@ -1,2 +1,2 @@
 # parallel-programming
-OpenMP, C++
+Python
