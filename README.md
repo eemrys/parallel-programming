@@ -1,2 +1,2 @@
-# parallel-programming
+# parallel_programming
 OpenMP, C++
